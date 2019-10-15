@@ -1,4 +1,4 @@
-# ck-motion Documentation
+# ck-motion documentation
 
 Last updated: 15.10.2019<br>
 Version: 0.01<br>
