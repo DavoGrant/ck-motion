@@ -1,0 +1,48 @@
+# Repo Specific #
+###################
+*.p
+*.mp4
+*.jpg
+*.pdf
+*.svg
+*.db
+!ckm/test/test_jar/interp_object_line3.p
+!ckm/test/test_jar/mock_rt_results.db
+
+# Compiled Source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# Logs and Databases #
+######################
+*.log
+*.sqlite
+
+# OS Generated Files #
+######################
+.DS_Store
+ehthumbs.db
+Icon
+Thumbs.db
+.tmtags
+.idea
+tags
+vendor.tags
+tmtagsHistory
+.bundle
