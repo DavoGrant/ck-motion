@@ -15,5 +15,9 @@ is a semi-analytical model which encapsulates the dynamics associated with
 extended emission, encoding the net velocity field of the out-flowing gas in
 terms of a convolution of past motion due to the finite flow speed of the wind.
 
+/ckm : the modelling code
+/test : unit testing
+/analytics : example usage of the ckm API
+
 ## Publication
 The associated paper is available at: (insert MNRAS, arxiv links).
