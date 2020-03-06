@@ -20,6 +20,6 @@ terms of a convolution of past motion due to the finite flow speed of the wind.
 /analytics : example usage of the ckm API<br>
 
 ## Publication
-The associated paper is available at:
-https://arxiv.org/abs/2003.02783
-MNRAS_LINK
+The associated paper is available at:<br>
+https://arxiv.org/abs/2003.02783<br>
+MNRAS_LINK<br>
