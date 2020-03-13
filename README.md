@@ -21,5 +21,5 @@ terms of a convolution of past motion due to the finite flow speed of the wind.
 
 ## Publication
 The associated paper is available at:<br>
+https://doi.org/10.1093/mnras/staa669<br>
 https://arxiv.org/abs/2003.02783<br>
-MNRAS_LINK<br>
